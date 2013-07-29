@@ -1,0 +1,7 @@
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_bufferUnitTest\bin\Debug\Cyclic_bufferUnitTest.dll
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_bufferUnitTest\bin\Debug\Cyclic_bufferUnitTest.pdb
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_bufferUnitTest\bin\Debug\Cyclic_buffer.exe
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_bufferUnitTest\bin\Debug\Cyclic_buffer.pdb
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_bufferUnitTest\obj\Debug\Cyclic_bufferUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_bufferUnitTest\obj\Debug\Cyclic_bufferUnitTest.dll
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_bufferUnitTest\obj\Debug\Cyclic_bufferUnitTest.pdb

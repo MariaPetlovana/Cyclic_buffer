@@ -1,0 +1,6 @@
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_buffer\bin\Debug\Cyclic_buffer.exe.config
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_buffer\bin\Debug\Cyclic_buffer.exe
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_buffer\bin\Debug\Cyclic_buffer.pdb
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_buffer\obj\Debug\Cyclic_buffer.exe
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_buffer\obj\Debug\Cyclic_buffer.pdb
+C:\Users\Masha\Desktop\Documents\Visual Studio 2012\Projects\Cyclic_buffer\Cyclic_buffer\obj\Debug\Cyclic_buffer.csprojResolveAssemblyReference.cache

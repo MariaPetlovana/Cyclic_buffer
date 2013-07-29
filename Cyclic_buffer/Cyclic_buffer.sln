@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyclic_buffer", "Cyclic_buffer\Cyclic_buffer.csproj", "{D60F093F-D84D-44DA-A698-478DD0B56242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyclic_bufferUnitTest", "Cyclic_bufferUnitTest\Cyclic_bufferUnitTest.csproj", "{F69CA42E-5846-4013-A275-3EE26EC3371F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60F093F-D84D-44DA-A698-478DD0B56242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F093F-D84D-44DA-A698-478DD0B56242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F093F-D84D-44DA-A698-478DD0B56242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F093F-D84D-44DA-A698-478DD0B56242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69CA42E-5846-4013-A275-3EE26EC3371F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69CA42E-5846-4013-A275-3EE26EC3371F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69CA42E-5846-4013-A275-3EE26EC3371F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69CA42E-5846-4013-A275-3EE26EC3371F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
